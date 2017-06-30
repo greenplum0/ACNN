@@ -18,4 +18,8 @@ inner: inner outer
 运行ACNN-OUTER：python con_atten.py atten outer  
 运行CNN：python con_atten.py max inner  
 
+# 自己运行需要修改的地方
+将文件con_atten.py 中第38,65行左右的文件路径修改为自己的本地路径  
+根据自己的方式修改卷积层的参数  
+
 
