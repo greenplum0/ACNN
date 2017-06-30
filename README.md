@@ -14,8 +14,8 @@ word_vectors.save:针对数据集生成的词向量文件
 mode：max  atten
 inner: inner outer
 
-运行ACNN-INNER：python con_atten.py atten inner
-运行ACNN-OUTER：python con_atten.py atten outer
-运行CNN：python con_atten.py max inner
+运行ACNN-INNER：python con_atten.py atten inner  
+运行ACNN-OUTER：python con_atten.py atten outer  
+运行CNN：python con_atten.py max inner  
 
 
